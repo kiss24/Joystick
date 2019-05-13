@@ -1,0 +1,14 @@
+C:\Users\Irvin\source\repos\Joystick\Joystick\bin\Debug\Joystick.exe
+C:\Users\Irvin\source\repos\Joystick\Joystick\bin\Debug\Joystick.pdb
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\Joystick.csprojAssemblyReference.cache
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\MainWindow.g.cs
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\App.g.cs
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\Joystick_MarkupCompile.cache
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\Joystick_MarkupCompile.lref
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\MainWindow.baml
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\Joystick.g.resources
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\Joystick.Properties.Resources.resources
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\Joystick.csproj.GenerateResource.cache
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\Joystick.csproj.CoreCompileInputs.cache
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\Joystick.exe
+C:\Users\Irvin\source\repos\Joystick\Joystick\obj\Debug\Joystick.pdb

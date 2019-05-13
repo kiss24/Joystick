@@ -1,0 +1,31 @@
+﻿<Window x:Class="Joystick.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Joystick"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="500"   MouseMove="Ellipse_MouseMove">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="3*"/>
+
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical">
+            <TextBlock Text="KNOB POSITION"/>
+            <TextBlock Name="XTextBlock"/>
+            <TextBlock Name="YTextBlock"/>
+            <TextBlock Text="MOUSE POSITION"/>
+            <TextBlock Name="XMousePos"/>
+            <TextBlock Name="YMousePos"/>
+            <TextBlock Text="POLAR COORDINATES"/>
+            <TextBlock Name="XPolPos"/>
+            <TextBlock Name="YPolPos"/>
+        </StackPanel>
+        <Canvas Name="LayoutRoot" Grid.Column="1">
+            <Ellipse Fill="DodgerBlue" Name ="Joystick" Height="200" Canvas.Left="100" Stroke="Black" Canvas.Top="100" Width="200"/>
+            <Ellipse Fill="Azure" Name="Knob" Height="70" Canvas.Left="165" Stroke="Black" Canvas.Top="165" Width="70" />
+        </Canvas>
+    </Grid>
+</Window>
